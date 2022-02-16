@@ -1,21 +1,23 @@
 ---
 title: lala
-role: ""
+role: Lecturer at NTUA
 avatar_filename: avatar.jpg
 bio: My research interests include scattering theory, medical imaging and data
   analysis.
 interests:
-  - data
+  - scattering theory
+  - medical imaging
+  - data analysis
 social:
   - icon: envelope
     icon_pack: fas
-    link: about/#contact
+    link: ... [at] gmail.com
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/leonidasmindrinos/
-  - icon: instagram
+  - icon: researchgate
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://www.researchgate.net/profile/Leonidas-Mindrinos
 organizations: []
 education:
   courses:
@@ -26,4 +28,4 @@ superuser: true
 status:
   icon: ☕️
 ---
-lala
+biography
