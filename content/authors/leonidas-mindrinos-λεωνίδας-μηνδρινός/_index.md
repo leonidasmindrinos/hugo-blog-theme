@@ -1,5 +1,5 @@
 ---
-title: Leonidas Mindrinos (Λεωνίδας Μηνδρινός)
+title: lala
 role: ""
 avatar_filename: avatar.jpg
 bio: My research interests include scattering theory, medical imaging and data
