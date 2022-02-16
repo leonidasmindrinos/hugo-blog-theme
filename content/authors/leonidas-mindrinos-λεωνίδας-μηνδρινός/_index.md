@@ -16,9 +16,7 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/geocushen
-organizations:
-  - name: Senior consultant at EY | Lecturer at NTUA
-    url: ""
+organizations: []
 education:
   courses:
     - course: PHD
