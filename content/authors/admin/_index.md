@@ -17,8 +17,13 @@ social:
     icon_pack: fab
     link: https://instagram.com/geocushen
 organizations:
-  - name: 腾讯
+  - name: Senior consultant at EY | Lecturer at NTUA
     url: ""
+education:
+  courses:
+    - course: PHD
+      year: 2011
+      institution: ntua
 superuser: true
 status:
   icon: ☕️
